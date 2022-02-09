@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
-
-- name: Python
-  percentage: 70
+- name: GIMP
+  percentage: 60
   color: secondary
+
+- name: Inkscape
+  percentage: 60
+  color: dark
+
+- name: Kdenlive
+  percentage: 50
+  color: warning
