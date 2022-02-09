@@ -1,11 +1,11 @@
 - name: GIMP
   percentage: 60
-  color: secondary
+  color: 6C6551
 
 - name: Inkscape
   percentage: 60
-  color: dark
+  color: 5C5C61
 
 - name: Kdenlive
   percentage: 50
-  color: warning
+  color: 4E78A9
