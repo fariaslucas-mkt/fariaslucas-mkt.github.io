@@ -1,0 +1,35 @@
+- name: GIMP
+  percentage: 60
+  color: secondary
+
+- name: Photoshop
+  percentage: 60
+  color: primary
+
+- name: Canvas
+  percentage: 60
+  color: primary
+
+- name: Figma
+  percentage: 20
+  color: primary
+
+- name: Inkscape
+  percentage: 60
+  color: light
+
+- name: CorelDraw
+  percentage: 60
+  color: success
+
+- name: DaVinci Resolve
+  percentage: 50
+  color: warning
+
+- name: Kdenlive
+  percentage: 50
+  color: info
+
+- name: Audacity
+  percentage: 50
+  color: primary

@@ -1,0 +1,27 @@
+- name: Marketing Digital
+  percentage: 80
+  color: danger
+
+- name: Gestão de Redes Sociais
+  percentage: 80
+  color: danger
+
+- name: Gestão Google Anúncios (Ads)
+  percentage: 60
+  color: primary
+
+- name: Gestão Google Meu Negócio (Workspace)
+  percentage: 80
+  color: primary
+
+- name: Criação de Sites (WordPress)
+  percentage: 60
+  color: info
+
+- name: Criação de Textos (Blogs e Redes Sociais)
+  percentage: 90
+  color: light
+
+- name: Fotografia (Ainda amador)
+  percentage: 10
+  color: secondary
