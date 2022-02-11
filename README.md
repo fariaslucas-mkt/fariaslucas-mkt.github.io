@@ -1,6 +1,5 @@
 # Lucas Farias S.
-## Portfólio
-Em construção :)
 
-teste de links\
-[contato](/sobre/contato.md)
+## [Conheça meu portfólio](https://fariaslucas-mkt.github.io/)
+
+Em construção :)
