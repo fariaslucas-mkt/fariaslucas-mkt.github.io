@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: /sobre/
 weight: 3
 ---
 
@@ -15,9 +15,9 @@ desenvolvimento de campanhas publicitárias, planejamento de marketing e publici
 roteiros e materiais audiovisuais, e o estudo de diferentes mídias (meios de comunicação).
 Meus tópicos favoritos são **branding**, **marketing**, **gestão**, **tipografia** e **criação de artes e vídeos (design gráfico :heart:)**.
 
-Meus hobbies incluem leitura, ouvir música (gosto eclético), ler sobre qualquer tópico interessante que eu achar online, e de vez em quando, alguma jogatina (ex-jogador de Dota 2 :anger:).
+Meus hobbies incluem leitura, ouvir música (gosto eclético), ler sobre qualquer tópico interessante que eu achar online.
 
-Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: norte-americano!) e tenho um interesse geral por idiomas e tradução. Escolhendo se o próximo idioma a aprender será Alemão, Francês ou Russo :thinking:.
+Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: norte-americano!) e tenho um interesse geral por idiomas e tradução.
 
 <div class="row">
 {% include about/skills.html title="Audiovisual" source=site.data.habilidades-audiovisual %}
