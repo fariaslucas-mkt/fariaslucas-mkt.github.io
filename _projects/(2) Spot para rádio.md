@@ -18,6 +18,12 @@ A Unique Spa Med é um spa fictício que foi criado para a produção de um spot
 {% endcapture %}
 {% include elements/carousel.html %}
 
+<p align=center>
+<a target="_blank" href="../assets/img/spot_pascoa/unique_spa_spot.mp3">Ouça o spot aqui!</a>
+</p>
+
+
+<!--- [spot](../assets/img/spot_pascoa/unique_spa_spot.mp3) --->
 
 ## Habilidades utilizadas no projeto
 
