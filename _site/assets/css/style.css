@@ -1,5 +1,11 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Poppins");
+
+.w-100 {
+  width: 55% !important;
+  height: 10vh;
+}
+
 .cls-1 { fill: #ffc541; }
 
 .cls-2 { fill: #4e4066; }
