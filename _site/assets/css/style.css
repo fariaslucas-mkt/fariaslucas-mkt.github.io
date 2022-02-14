@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 
 .w-100 {
-  width: 61% !important;
+  width: 60% !important;
   height: 10vh;
 } 
 
@@ -471,6 +471,6 @@ body { font-family: "Poppins", sans-serif; }
 [data-theme="dark"] .timeline-body .timeline-item:after { background-color: #17191a; }
 
 .w-100 {
-  width: 61% !important;
+  width: 60% !important;
   height: 10vh;
 } 
