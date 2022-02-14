@@ -12,8 +12,8 @@ O Podcast A Cena é um projeto em que são entrevistados personalidades do cená
 
 
 {% capture carousel_images %}
-../assets/res/podcast_a_cena/a_cena_convidados.png
 ../assets/res/podcast_a_cena/a_cena_cover.png
+../assets/res/podcast_a_cena/a_cena_convidados.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
