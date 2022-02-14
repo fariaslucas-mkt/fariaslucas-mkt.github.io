@@ -26,18 +26,23 @@ A tabela de preços do CorelDraw é a seguinte:
 |:-:             |:-:                 |
 | R$ 1.450,00    | R$ 2.899,00        |
 
+<p align="center"> <img src="../assets/res/blog/coreldraw.png"></p>
+
 <br>
 
 Já a do Illustrator (vale notar que a Adobe removeu a opção de compra única, e agora oferece apenas os produtos como serviços):
 
-| Anual          |
-|:-:             |
-| R$ 1.080,00    |
+| Anual          | Anual (pré-pago) |
+|:-:             | :-:              |
+| R$ 1.080,00    | R$ 1.032,00      |
+
+<p align="center"> <img src="../assets/res/blog/illustrator.png"></p>
 
 <br>
 
 Mas preço não é tudo! A questão é que, para empresas pequenas, um *freelancer* ou estudante (***principalmente*** estudante), não há sentido em pagar tais valores sendo que existem *softwares* semelhantes tão bons quanto. Esses valores se referem mais à questão de **garantia**, algo muito importante para grandes empresas: se o programa que você pagou apresenta algum problema, você tem a certeza de um atendimento especializado. No entanto, isso não ocorre no mundo de **softwares livres**, como o **Inkscape**; esses são oferecidos **sem garantia**. Mas, como dito, isso não é grande problema para *freelancers* e estudantes.
 
+<p align="center"> <img src="../assets/res/blog/inkscape.png"></p>
 
 
 
