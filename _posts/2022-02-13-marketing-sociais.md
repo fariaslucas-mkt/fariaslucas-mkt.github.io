@@ -1,6 +1,6 @@
 ---
-title: What the heck is a Callback?
-tags: [JavaScript, Nodejs, Web Development]
+title: Marketing Digital & Redes Sociais
+tags: [Marketing Digital, Redes Sociais]
 style: fill
 color: danger
 description: Learn and understand the basics of callbacks in just 6 minutes with easy examples.

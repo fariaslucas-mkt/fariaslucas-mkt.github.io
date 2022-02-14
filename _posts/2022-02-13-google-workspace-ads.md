@@ -1,8 +1,8 @@
 ---
-title: Clean Coding
-tags: [Software Development, Clean Code]
+title: Google Meu Negócio & Anúncios
+tags: [Google, Marketing Digital]
 style: fill
-color: info
+color: primary
 description: These four “clean code” tips will dramatically improve your engineering team’s productivity
 ---
 

@@ -1,83 +1,83 @@
 [
   
     {
-      "title"    : "Digital Minimalism",
+      "title"    : "Marketing Digital &amp; Redes Sociais",
       "category" : "",
-      "tags"     : "Social Media, Minimalism, Technology",
-      "url"      : "/blog/digital-minimalism",
-      "date"     : "2019-02-20 00:00:00 -0300"
+      "tags"     : "Marketing Digital, Redes Sociais",
+      "url"      : "/blog/marketing-sociais",
+      "date"     : "2022-02-13 00:00:00 -0300"
     } ,
   
     {
-      "title"    : "Learn React.js in 5 minutes",
+      "title"    : "Google Meu Negócio &amp; Anúncios",
       "category" : "",
-      "tags"     : "React, JavaScript, Web Development",
-      "url"      : "/blog/learn-react-js",
-      "date"     : "2019-02-15 00:00:00 -0300"
+      "tags"     : "Google, Marketing Digital",
+      "url"      : "/blog/google-workspace-ads",
+      "date"     : "2022-02-13 00:00:00 -0300"
     } ,
   
     {
-      "title"    : "Clean Coding",
+      "title"    : "Criação de Sites (Wordpress)",
       "category" : "",
-      "tags"     : "Software Development, Clean Code",
-      "url"      : "/blog/clean-coding",
-      "date"     : "2018-12-10 00:00:00 -0300"
+      "tags"     : "Sites",
+      "url"      : "/blog/sites",
+      "date"     : "2022-02-12 00:00:00 -0300"
     } ,
   
     {
-      "title"    : "What the heck is a Callback?",
+      "title"    : "Photoshop &amp; GIMP",
       "category" : "",
-      "tags"     : "JavaScript, Nodejs, Web Development",
-      "url"      : "/blog/what-the-heck-is-a-callback",
-      "date"     : "2018-12-01 00:00:00 -0300"
+      "tags"     : "Artes, Gráficos Bitmap",
+      "url"      : "/blog/photoshop-gimp",
+      "date"     : "2022-02-12 00:00:00 -0300"
     } ,
   
     {
-      "title"    : "4 Lessons After 11 Years in Silicon Valley",
+      "title"    : "Canvas &amp; Figma",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
-      "date"     : "2018-05-09 00:00:00 -0300"
+      "tags"     : "Artes",
+      "url"      : "/blog/canvas-figma",
+      "date"     : "2022-02-12 00:00:00 -0300"
     } ,
   
     {
-      "title"    : "GitHub Flow",
+      "title"    : "DaVinci Resolve &amp; Kdenlive",
       "category" : "",
-      "tags"     : "GitHub, Workflow",
-      "url"      : "/blog/github-flow",
-      "date"     : "2017-01-01 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "A better Hello World",
-      "category" : "",
-      "tags"     : "Software Development",
-      "url"      : "/blog/a-better-hello-world",
-      "date"     : "2016-07-23 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "Do not go gentle into that good night",
-      "category" : "",
-      "tags"     : "Poetry",
-      "url"      : "/blog/do-not-go-gentle-into-that-good-night",
-      "date"     : "2016-04-17 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "What is version control?",
-      "category" : "",
-      "tags"     : "Version Control",
-      "url"      : "/blog/what-is-version-control",
-      "date"     : "2016-02-09 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "How to undo your git failure?",
-      "category" : "",
-      "tags"     : "External Post, Git",
+      "tags"     : "Vídeos",
       "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
-      "date"     : "2015-09-25 00:00:00 -0300"
+      "date"     : "2022-02-11 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "CorelDraw &amp; Inkscape",
+      "category" : "",
+      "tags"     : "Artes, Gráficos Vetoriais",
+      "url"      : "/blog/coreldraw-inkscape",
+      "date"     : "2022-02-11 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "Audacity",
+      "category" : "",
+      "tags"     : "Áudio",
+      "url"      : "/blog/audacity",
+      "date"     : "2022-02-11 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "Criação de Textos (Blogs e Redes Sociais)",
+      "category" : "",
+      "tags"     : "Texto, Roteiros",
+      "url"      : "/blog/textos",
+      "date"     : "2022-02-10 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "Fotografia",
+      "category" : "",
+      "tags"     : "Artes, Fotografia",
+      "url"      : "/blog/fotografia",
+      "date"     : "2022-02-10 00:00:00 -0300"
     } 
   
 ]

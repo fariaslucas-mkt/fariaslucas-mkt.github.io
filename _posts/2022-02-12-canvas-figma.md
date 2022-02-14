@@ -1,6 +1,6 @@
 ---
-title: Learn React.js in 5 minutes
-tags: [React, JavaScript, Web Development]
+title: Canvas & Figma
+tags: [Artes]
 style: border
 color: primary
 description: A quick introduction to the popular JavaScript library.

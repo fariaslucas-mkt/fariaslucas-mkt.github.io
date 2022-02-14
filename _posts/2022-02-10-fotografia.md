@@ -1,7 +1,7 @@
 ---
-title: A better Hello World
-tags: [Software Development]
-style: fill
+title: Fotografia
+tags: [Artes, Fotografia]
+style: border
 color: dark
 description: A different “hello world” to demonstrate language features better.
 ---
