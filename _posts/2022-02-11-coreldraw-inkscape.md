@@ -22,7 +22,3 @@ description: Desenvolvimento de artes digitais através de programas de gráfico
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png">
 Interface do Inkscape
 </p>
-
-
-
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png">Inkscape</p>

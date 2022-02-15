@@ -18,4 +18,11 @@ DaVinci Resolve e Kdenlive são **programas para edição e pós-produção de v
 * Otimização de conversa (cortes de intervalos sem voz)
 * Transições e animações
 
-<p align="center">{% include elements/figure.html image="https://images.blackmagicdesign.com/images/products/davinciresolve/edit/responsive-en-md.jpg" caption="DaVinci Resolve 5" align="center" %}</p>
+<br>
+
+<p align="center">
+<img src="https://images.blackmagicdesign.com/images/products/davinciresolve/edit/responsive-en-md.jpg">
+Interface do DaVinci Resolve
+</p>
+
+
