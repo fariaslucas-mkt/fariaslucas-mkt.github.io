@@ -17,15 +17,16 @@ description: Desenvolvimento de artes digitais através de programas de gráfico
 * Tipografia
 
 
-{% include elements/figure.html image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png" caption="Inkscape" %}
+<!--- {% include elements/figure.html image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png" caption="Inkscape" %}
+--->
+
 
 <!--- {% include elements/figure.html image="../assets/res/blog/inkscape.png" caption="Página de download do Inkscape" %}
 --->
 
 
-<!---
 
-<p align="center"> <img src="../assets/res/blog/illustrator.png"></p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png"></p>
 
 <br>
 
