@@ -1,5 +1,17 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Poppins");
+
+.w-100 {
+  width: 60% !important;
+  height: 75vh;
+}
+
+<img src="..." class="rounded mx-auto d-block" alt="...">
+
+<div class="text-center">
+  <img src="..." class="rounded" alt="...">
+</div>
+
 .cls-1 { fill: #ffc541; }
 
 .cls-2 { fill: #4e4066; }
