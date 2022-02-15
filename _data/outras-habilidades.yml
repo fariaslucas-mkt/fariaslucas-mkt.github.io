@@ -1,9 +1,9 @@
 - name: Marketing Digital
-  percentage: 80
+  percentage: 70
   color: danger
 
 - name: Gestão de Redes Sociais
-  percentage: 80
+  percentage: 70
   color: danger
 
 - name: Gestão Google Anúncios (Ads)
@@ -19,7 +19,7 @@
   color: info
 
 - name: Criação de Textos (Blogs e Redes Sociais)
-  percentage: 90
+  percentage: 80
   color: light
 
 - name: Fotografia (Ainda amador)
