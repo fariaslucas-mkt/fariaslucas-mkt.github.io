@@ -8,7 +8,7 @@ description: Edição de vídeo, transições, animações, montagem de clipes, 
 
 DaVinci Resolve e Kdenlive são **programas para edição e pós-produção de vídeos**.
 
-[**Vejas projetos em que usei o DaVinci Resolve**.]()
+[**Vejas projetos em que usei o DaVinci Resolve.**]()
 
 ## Habilidades
 
