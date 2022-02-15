@@ -15,7 +15,7 @@ desenvolvimento de campanhas publicitárias, planejamento de marketing e publici
 roteiros e materiais audiovisuais, e o estudo de diferentes mídias (meios de comunicação).
 Meus tópicos favoritos são **branding**, **marketing**, **gestão**, **tipografia** e **criação de artes e vídeos (design gráfico :heart:)**.
 
-Meus hobbies incluem leitura, ouvir música (gosto eclético) e ler sobre qualquer tópico interessante que eu achar online.
+Meus hobbies incluem livros de ficcção, ouvir música (gosto eclético) e ler sobre qualquer tópico interessante que eu achar online.
 
 Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: norte-americano!) e tenho um interesse geral por idiomas e tradução.
 
