@@ -7,6 +7,7 @@ description: O Podcast A Cena é um projeto em que são entrevistados personalid
 ---
 
 # Podcast A Cena
+> Projeto da faculdade
 
 O Podcast A Cena é um projeto em que são entrevistados personalidades do cenário artístico paraense, _do pop ao underground_. No primeiro episódio, a _host_ Isis Bem entrevista o cantor e compositor Arthur da Silva e o também compositor Gabriel Gaya, vocalista na banda Les Rita Pavone.
 

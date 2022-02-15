@@ -8,7 +8,10 @@ description: Desenvolvimento de artes digitais através de programas de gráfico
 
 ​CorelDraw, Inkscape e Illustrator são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
 
-[**Vejas artes em que usei o Inkscape.**]()
+{% capture list_items %}
+Em breve,
+{% endcapture %}
+{% include elements/list.html title="Material desenvolvido com Inkscape" %}
 
 ## Habilidades
 

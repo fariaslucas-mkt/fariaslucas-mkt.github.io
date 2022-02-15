@@ -8,6 +8,7 @@ description: Produção de comercial a ser veiculado em rádio para uma empresa 
 ---
 
 # Spot Para Rádio
+> Projeto da faculdade
 
 A Unique Spa Med é um spa fictício que foi criado para a produção de um spot para rádio (anúncio de 30 segundos), anunciando sua nova promoção de páscoa.
 
