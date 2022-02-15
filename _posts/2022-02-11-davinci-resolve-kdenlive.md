@@ -20,5 +20,5 @@ Photoshop e GIMP são **programas para edição, desenho e manipulação de grá
 * Tipografia
 
 <p align="center">
-{% include elements/figure.html image="https://images.blackmagicdesign.com/images/products/davinciresolve/edit/responsive-en-md.jpg" caption="DaVinci Resolve 155" %}
+{% include elements/figure.html image="https://images.blackmagicdesign.com/images/products/davinciresolve/edit/responsive-en-md.jpg" caption="DaVinci Resolve 5" %}
 </p>

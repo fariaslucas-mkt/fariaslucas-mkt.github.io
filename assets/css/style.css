@@ -6,12 +6,9 @@
   height: 75vh;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<img src="..." class="rounded mx-auto d-block" alt="...">
+
+<img src="..." class="rounded mx-auto d-block" alt="...">
 
 .cls-1 { fill: #ffc541; }
 
