@@ -9,7 +9,7 @@ description: Edição de vídeo, transições, animações, montagem de clipes, 
 DaVinci Resolve e Kdenlive são **programas para edição e pós-produção de vídeos**.
 
 {% capture list_items %}
-Em breve,
+Podcast A Cena (Vídeo),https://fariaslucas-mkt.github.io/projects/4-podcast-a-cena-v%C3%ADdeo
 {% endcapture %}
 {% include elements/list.html title="Material desenvolvido com DaVinci Resolve" %}
 
