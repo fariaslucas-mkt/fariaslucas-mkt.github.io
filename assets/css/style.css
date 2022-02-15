@@ -6,6 +6,13 @@
   height: 75vh;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .cls-1 { fill: #ffc541; }
 
 .cls-2 { fill: #4e4066; }
