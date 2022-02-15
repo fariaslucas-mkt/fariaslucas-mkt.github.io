@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "Photoshop &amp; GIMP",
+      "category" : "",
+      "tags"     : "Artes, Gráficos Bitmap",
+      "url"      : "/blog/photoshop-gimp",
+      "date"     : "2022-02-14 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "DaVinci Resolve &amp; Kdenlive",
+      "category" : "",
+      "tags"     : "Vídeos",
+      "url"      : "/blog/davinci-resolve-kdenlive",
+      "date"     : "2022-02-14 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "CorelDraw, Inkscape &amp; Illustrator",
+      "category" : "",
+      "tags"     : "Artes, Gráficos Vetoriais",
+      "url"      : "/blog/coreldraw-inkscape",
+      "date"     : "2022-02-14 00:00:00 -0300"
+    } ,
+  
+    {
+      "title"    : "Audacity",
+      "category" : "",
+      "tags"     : "Áudio",
+      "url"      : "/blog/audacity",
+      "date"     : "2022-02-14 00:00:00 -0300"
+    } ,
+  
+    {
       "title"    : "Marketing Digital &amp; Redes Sociais",
       "category" : "",
       "tags"     : "Marketing Digital, Redes Sociais",
@@ -25,43 +57,11 @@
     } ,
   
     {
-      "title"    : "Photoshop &amp; GIMP",
-      "category" : "",
-      "tags"     : "Artes, Gráficos Bitmap",
-      "url"      : "/blog/photoshop-gimp",
-      "date"     : "2022-02-12 00:00:00 -0300"
-    } ,
-  
-    {
       "title"    : "Canvas &amp; Figma",
       "category" : "",
       "tags"     : "Artes",
       "url"      : "/blog/canvas-figma",
       "date"     : "2022-02-12 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "DaVinci Resolve &amp; Kdenlive",
-      "category" : "",
-      "tags"     : "Vídeos",
-      "url"      : "/blog/davinci-resolve-kdenlive",
-      "date"     : "2022-02-11 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "CorelDraw, Inkscape &amp; Illustrator",
-      "category" : "",
-      "tags"     : "Artes, Gráficos Vetoriais",
-      "url"      : "/blog/coreldraw-inkscape",
-      "date"     : "2022-02-11 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "Audacity",
-      "category" : "",
-      "tags"     : "Áudio",
-      "url"      : "/blog/audacity",
-      "date"     : "2022-02-11 00:00:00 -0300"
     } ,
   
     {
