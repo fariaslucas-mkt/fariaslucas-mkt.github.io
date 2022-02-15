@@ -47,5 +47,5 @@ Quer saber mais dessa cena? <a target="_blank" href="https://open.spotify.com/ep
 #### GIMP
 * Edição das imagens dos convidados
 
-#### **Outros**
+#### Outros
 * Desenvolvimento de roteiro
