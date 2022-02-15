@@ -19,6 +19,9 @@ Photoshop e GIMP são **programas para edição, desenho e manipulação de grá
 * Composição de imagens e efeitos
 * Tipografia
 
+<p align="center"> <img src="https://www.gimp.org/release-notes/images/2.10-update-ui.jpg"></p>
+
+
 
 {% include elements/figure.html image="https://www.gimp.org/release-notes/images/2.10-update-ui.jpg" caption="GIMP" %}
 
