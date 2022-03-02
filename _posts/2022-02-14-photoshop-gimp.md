@@ -8,10 +8,11 @@ description: Desenvolvimento de artes digitais através de programas de gráfico
 
 Photoshop e GIMP são **programas para edição, desenho e manipulação de gráficos raster/bitmap** (por exemplo, os famosos formatos PNG e JPG). Estes tipos de gráficos são usados em manipulação de fotografias, criação de artes e material para impressão.
 
-{% capture list_items %}
-Em breve,
+{% capture carousel_images %}
+/../assets/res/campanha_mulher/m1b.png
+/../assets/res/campanha_mulher/m2c.png
 {% endcapture %}
-{% include elements/list.html title="Material desenvolvido com GIMP" %}
+{% include elements/carousel.html %}
 
 ## Habilidades
 
