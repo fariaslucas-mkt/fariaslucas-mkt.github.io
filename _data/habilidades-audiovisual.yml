@@ -6,12 +6,12 @@
   percentage: 60
   color: primary
 
-- name: Canvas
-  percentage: 60
+- name: Canva
+  percentage: 50
   color: primary
 
 - name: Figma
-  percentage: 40
+  percentage: 50
   color: primary
 
 - name: Inkscape

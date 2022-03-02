@@ -1,5 +1,5 @@
 ---
-title: Canvas & Figma
+title: Canva & Figma
 tags: [Artes]
 style: border
 color: primary
