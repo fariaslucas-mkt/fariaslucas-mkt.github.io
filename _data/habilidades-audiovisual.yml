@@ -18,10 +18,10 @@
   percentage: 40
   color: success
 
-- name: Adobe InDesign
-  percentage: 40
-  color: info
-
 - name: Audacity
   percentage: 50
   color: warning
+
+- name: Adobe InDesign
+  percentage: 40
+  color: info
