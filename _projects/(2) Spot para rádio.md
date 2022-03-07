@@ -4,11 +4,10 @@ tools: [Áudio, Audacity, Comercial, Rádio]
 image: ../assets/res/spot_pascoa/unique_spa_logo.png
 description: Produção de comercial a ser veiculado em rádio para uma empresa fictícia.
 
-
 ---
 
 # Spot Para Rádio
-> Projeto da faculdade
+> Projeto acadêmico
 
 A Unique Spa Med é um spa fictício que foi criado para a produção de um spot para rádio (anúncio de 30 segundos), anunciando sua nova promoção de páscoa.
 
