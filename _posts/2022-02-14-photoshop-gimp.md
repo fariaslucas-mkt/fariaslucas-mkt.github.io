@@ -1,12 +1,12 @@
 ---
-title: Photoshop & GIMP
+title: Adobe Photoshop & GIMP
 tags: [Artes, Gráficos Bitmap]
 style: 
 color: 
 description: Desenvolvimento de artes digitais através de programas de gráficos bitmap.
 ---
 
-Photoshop e GIMP são **programas para edição, desenho e manipulação de gráficos raster/bitmap** (por exemplo, os famosos formatos PNG e JPG). Estes tipos de gráficos são usados em manipulação de fotografias, criação de artes e material para impressão.
+Adobe Photoshop e GIMP são **programas para edição, desenho e manipulação de gráficos raster/bitmap** (por exemplo, os famosos formatos PNG e JPG). Estes tipos de gráficos são usados em manipulação de fotografias, criação de artes e material para impressão.
 
 {% capture carousel_images %}
 /../assets/res/campanha_mulher/m1b.png

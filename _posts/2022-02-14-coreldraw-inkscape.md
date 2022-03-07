@@ -1,12 +1,12 @@
 ---
-title: CorelDraw, Inkscape & Illustrator
+title: Adobe Illustrator, CorelDraw & Inkscape
 tags: [Artes, Gráficos Vetoriais]
 style: fill
 color: success
 description: Desenvolvimento de artes digitais através de programas de gráficos vetoriais.
 ---
 
-​CorelDraw, Inkscape e Illustrator são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
+Adobe Illustrator, CorelDraw & Inkscape são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
 
 {% capture list_items %}
 Em breve,

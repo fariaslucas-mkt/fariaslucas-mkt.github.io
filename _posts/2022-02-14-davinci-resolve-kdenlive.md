@@ -1,12 +1,12 @@
 ---
-title: DaVinci Resolve & Kdenlive
+title: Adobe Premiere Pro, DaVinci Resolve, Kdenlive
 tags: [Vídeos]
 style: border
 color: warning
 description: Edição de vídeo, transições, animações, montagem de clipes, textos em vídeo.
 ---
 
-DaVinci Resolve e Kdenlive são **programas para edição e pós-produção de vídeos**.
+Adobe Premiere Pro, DaVinci Resolve e Kdenlive são **programas para edição e pós-produção de vídeos**.
 
 {% capture list_items %}
 Podcast A Cena (Vídeo),https://fariaslucas-mkt.github.io/projects/4-podcast-a-cena-v%C3%ADdeo
