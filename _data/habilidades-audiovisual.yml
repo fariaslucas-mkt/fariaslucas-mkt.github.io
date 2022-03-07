@@ -1,6 +1,6 @@
 - name: Adobe Photoshop & GIMP
   percentage: 60
-  color: primary
+  color: info
 
 - name: Adobe Illustrator, CorelDraw & Inkscape
   percentage: 60
@@ -8,7 +8,7 @@
 
 - name: Adobe Premiere Pro, Vegas Pro, DaVinci Resolve & Kdenlive
   percentage: 50
-  color: warning
+  color: primary
 
 - name: Canva, Figma & Adobe XD (UI & UX)
   percentage: 50
