@@ -2,7 +2,7 @@
 title: Canva, Figma & Adobe XD
 tags: [Artes]
 style: border
-color: primary
+color: success
 description: Desenvolvimento de **artes digitais e interfaces de usuário** (U.I.) através de plataformas online. Adobe XD e Figma são utilizados também em projetos de **prototipação**.
 ---
 
