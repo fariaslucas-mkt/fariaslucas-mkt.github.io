@@ -1,7 +1,7 @@
 ---
 title: Adobe Illustrator, CorelDraw & Inkscape
 tags: [Artes, Gráficos Vetoriais]
-style: fill
+style: border
 color: success
 description: Desenvolvimento de artes digitais através de programas de gráficos vetoriais.
 ---

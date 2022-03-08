@@ -1,8 +1,8 @@
 ---
 title: Adobe Photoshop & GIMP
 tags: [Artes, Gráficos Bitmap]
-style: 
-color: 
+style: borderr
+color: info
 description: Desenvolvimento de artes digitais através de programas de gráficos bitmap.
 ---
 
