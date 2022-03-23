@@ -9,7 +9,7 @@ weight: 3
 
 Olá! Me chamo **{{ site.author.name }}** :wave:,<br>
 
-Sou **publicitário** em formação pela Estácio FAP (5º semestre).
+Sou **publicitário** em formação pela Estácio FAP (6º semestre).
 Meus estudos são focados na área de comunicação, e entre os principais tópicos abrangidos estão:
 desenvolvimento de campanhas publicitárias, planejamento de marketing e publicidade, criação de artes,
 roteiros e materiais audiovisuais, e o estudo de diferentes mídias (meios de comunicação).
