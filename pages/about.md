@@ -16,6 +16,8 @@ roteiros e materiais audiovisuais, e o estudo de diferentes mídias (meios de co
 Meus tópicos favoritos são **branding**, **marketing**, **gestão**, **tipografia** e **criação de artes e vídeos (design gráfico :heart:)**.
 Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: norte-americano!) e tenho um interesse geral por idiomas e tradução.
 
+[Aviso de Direitos Autorais/Copyright](https://fariaslucas-mkt.github.io/copyright/)
+
 <!--- Meus hobbies incluem livros de ficção, ouvir música (gosto eclético) e ler sobre qualquer tópico interessante que eu achar online.
 --->
 
