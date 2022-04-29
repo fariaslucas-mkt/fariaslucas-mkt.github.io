@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aviso de Copyright
+title: Aviso sobre Direitos Autorais
 permalink: /copyright/
 weight: 4
 ---
