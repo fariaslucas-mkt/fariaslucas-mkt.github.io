@@ -9,6 +9,8 @@ As obras apresentadas neste website podem conter material protegido por direitos
 
 O uso livre artístico e pessoal é respaldado pela seção de Direitos Autorais na Legislação Brasileira, especificamente a seção Limitação Aos Direitos Autorais (LDA), Lei 9.610/98,  no Art. 46 incisos II e VIII, “Não constitui ofensa aos direitos autorais:” “II. a reprodução, em um só exemplar de pequenos trechos, para uso privado do copista, desde que feita por este, sem intuito de lucro;” e “VIII. a reprodução, em quaisquer obras, de pequenos trechos de obras preexistentes, de qualquer natureza, ou de obra integral, quando de artes plásticas, sempre que a reprodução em si não seja o objetivo principal da obra nova e que não prejudique a exploração normal da obra reproduzida nem cause um prejuízo injustificado aos legítimos interesses dos autores;”
 
+Todos os materiais presentes neste _website_ possuem finalidade informativa e acadêmica, e não são utilizadas para fins comerciais.
+
 Espera-se bom senso no julgamento do(s) material(is) apresentado(s) neste website em relação ao(s) material(is) protegido(s) por direitos autorais e de cópia.
 Todos os direitos pertencem aos seus respectivos donos.
 
