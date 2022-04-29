@@ -14,4 +14,4 @@ Todos os materiais presentes neste _website_ possuem finalidade puramente inform
 Espera-se bom senso no julgamento do(s) material(is) apresentado(s) neste website em relação ao(s) material(is) protegido(s) por direitos autorais e de cópia.
 Todos os direitos pertencem aos seus respectivos donos.
 
-Se você possui algum material de sua autoria que esteja devidamente registrado e protegido por direitos autorais/direitos de cópias, e que está presente neste _website_ e você acredita que seus direitos estejam sendo violados, por favor mande um email para [s.fariaslucas@gmail.com](mailto:s.fariaslucas@gmail.com) com o assunto "Direitos Autorais Em Portfólio Online".
+Se você possui algum material de sua autoria que esteja devidamente registrado e protegido por direitos autorais/direitos de cópia, e que está presente neste _website_ e você acredita que seus direitos estejam sendo violados, por favor mande um email para [s.fariaslucas@gmail.com](mailto:s.fariaslucas@gmail.com) com o assunto "Direitos Autorais Em Portfólio Online".
