@@ -28,4 +28,5 @@ Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: no
 {% include about/timeline.html %}
 </div>
 
+<br>
 [Aviso de Direitos Autorais/Copyright](https://fariaslucas-mkt.github.io/copyright/)
