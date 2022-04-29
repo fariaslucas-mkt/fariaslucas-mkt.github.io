@@ -29,4 +29,4 @@ Autodidata de paixão, sou fluente em Inglês (sotaque britânico :uk: > :us: no
 </div>
 
 <br>
-[Aviso de Direitos Autorais/Copyright](https://fariaslucas-mkt.github.io/copyright/)
+[Aviso sobre Direitos Autorais/Copyright.](https://fariaslucas-mkt.github.io/copyright/)
