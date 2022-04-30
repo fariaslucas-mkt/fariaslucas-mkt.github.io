@@ -48,16 +48,12 @@ Postagem Instituto Casula
   <div class="desc">Campanha Mulheres, 1</div>
 </div>
 
-&nbsp;&nbsp;
-
 <div class="gallery">
   <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher_2.png">
     <img src="../assets/res/campanha_mulher/campanha_mulher_2.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Campanha Mulheres, 1</div>
 </div> 
-
-&nbsp;&nbsp;
 
 <div class="gallery">
   <a target="_blank" href="../assets/res/casula/casula-1.png">
@@ -66,16 +62,12 @@ Postagem Instituto Casula
   <div class="desc">Postagem Instituto Casula, 1</div>
 </div> 
 
-&nbsp;&nbsp;
-
 <div class="gallery">
   <a target="_blank" href="../assets/res/casula/casula-2.png">
     <img src="../assets/res/casula/casula-2.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Postagem Instituto Casula, 1</div>
 </div> 
-
-&nbsp;&nbsp;
 
 </br></br></br>
 
