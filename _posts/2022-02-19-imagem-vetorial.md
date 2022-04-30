@@ -8,6 +8,57 @@ description: Desenvolvimento de artes digitais através de programas de gráfico
 
 Adobe Illustrator, CorelDraw & Inkscape são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
 
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
 {% capture list_items %}
 Campanha Mulher - Tema violência
 Postagem Instituto Casula
@@ -19,7 +70,7 @@ Postagem Instituto Casula
 ../assets/res/campanha_mulher/campanha_mulher_2.png
 {% endcapture %}
 {% include elements/carousel.html %}
-[Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
+[# Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
 
 {% capture carousel_images %}
 ../assets/res/casula/casula-1.png
