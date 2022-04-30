@@ -4,6 +4,7 @@ tags: [Artes, Gráficos Vetoriais]
 style: border
 color: warning
 description: Desenvolvimento de artes digitais através de programas de gráficos vetoriais.
+external_url: https://fariaslucas-mkt.github.io/blog/imagem-vetorial
 ---
 
 Adobe Illustrator, CorelDraw & Inkscape são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
