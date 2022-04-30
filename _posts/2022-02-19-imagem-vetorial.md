@@ -15,8 +15,8 @@ Postagem Instituto Casula
 {% include elements/list.html title="Material desenvolvido com Inkscape" %}
 
 {% capture carousel_images %}
-../assets/res/campanha_mulher/m1b.png
-../assets/res/campanha_mulher/m2c.png
+../assets/res/campanha_mulher/campanha_mulher.png
+../assets/res/campanha_mulher/campanha_mulher_2.png
 
 [Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
 
