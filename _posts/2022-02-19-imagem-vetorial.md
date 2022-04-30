@@ -33,13 +33,12 @@ div.desc {
 
 Adobe Illustrator, CorelDraw & Inkscape são **programas para edição, desenho e manipulação de gráficos vetoriais**. Estes tipos de gráficos são usados em tarefas que necessitam de um alto grau de precisão e quando informações complexas podem ser decompostas em simples formas geométricas. É o modelo preferido para áreas como engenharia, arquitetura, agrimensura, renderização 3D, e tipografia.
 
+## Habilidades
 
+* Desenvolvimento de artes, figuras, logos, logotipos, banners, símbolos e ícones
+* Desenvolvimento de mockups (websites, UI, posts)
+* Tipografia
 
-{% capture list_items %}
-Campanha Mulher - Tema violência
-Postagem Instituto Casula
-{% endcapture %}
-{% include elements/list.html title="Material desenvolvido com Inkscape" %}
 
 <div>
 <div class="gallery">
@@ -85,15 +84,7 @@ Postagem Instituto Casula
 </div> 
 </div>
 
- <p>
  <br>
-## Habilidades
-
-* Desenvolvimento de artes, figuras, logos, logotipos, banners, símbolos e ícones
-* Desenvolvimento de mockups (websites, UI, posts)
-* Tipografia
-</p>
-<br>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inkscape_1.1_screenshot.png/1024px-Inkscape_1.1_screenshot.png">
