@@ -85,9 +85,8 @@ Postagem Instituto Casula
 </div> 
 </div>
 
-
-<br><br><br>
  <p>
+ <br>
 ## Habilidades
 
 * Desenvolvimento de artes, figuras, logos, logotipos, banners, símbolos e ícones
