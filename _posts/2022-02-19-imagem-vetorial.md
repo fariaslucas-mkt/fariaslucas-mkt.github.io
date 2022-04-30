@@ -18,7 +18,7 @@ div.gallery {
 
 div.gallery:hover {
   transition: transform .2s;
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 
 div.gallery img {
