@@ -87,13 +87,13 @@ Postagem Instituto Casula
 
 
 <br><br><br>
-
+ <p>
 ## Habilidades
 
 * Desenvolvimento de artes, figuras, logos, logotipos, banners, símbolos e ícones
 * Desenvolvimento de mockups (websites, UI, posts)
 * Tipografia
-
+</p>
 <br>
 
 <p align="center">
