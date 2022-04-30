@@ -17,8 +17,8 @@ div.gallery {
 }
 
 div.gallery:hover {
-  transition: transform .3s;
   transform: scale(1.1);
+  transition: transform .3s;
 }
 
 div.gallery img {
@@ -52,7 +52,7 @@ Postagem Instituto Casula
   <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher_2.png">
     <img src="../assets/res/campanha_mulher/campanha_mulher_2.png" alt="" width="600" height="400">
   </a>
-  <div class="desc">Campanha Mulheres, 1</div>
+  <div class="desc">Campanha Mulheres, 2</div>
 </div> 
 
 <div class="gallery">
@@ -66,8 +66,23 @@ Postagem Instituto Casula
   <a target="_blank" href="../assets/res/casula/casula-2.png">
     <img src="../assets/res/casula/casula-2.png" alt="" width="600" height="400">
   </a>
-  <div class="desc">Postagem Instituto Casula, 1</div>
+  <div class="desc">Postagem Instituto Casula, 2</div>
 </div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/rrchev/rrchev-1.png">
+    <img src="../assets/res/rrchev/rrchev-1.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Postagem RR Chevrolet, 1</div>
+</div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/rrchev/rrchev-2png">
+    <img src="../assets/res/rrchev/rrchev-2.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Postagem RR Chevrolet, 2</div>
+</div> 
+
 
 <br><br><br>
 
