@@ -32,34 +32,6 @@ div.desc {
 }
 </style>
 
-<div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
-    <img src="../assets/res/campanha_mulher/campanha_mulher.png" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
 
 
 {% capture list_items %}
@@ -68,18 +40,34 @@ Postagem Instituto Casula
 {% endcapture %}
 {% include elements/list.html title="Material desenvolvido com Inkscape" %}
 
-{% capture carousel_images %}
-../assets/res/campanha_mulher/campanha_mulher.png
-../assets/res/campanha_mulher/campanha_mulher_2.png
-{% endcapture %}
-{% include elements/carousel.html %}
-[# Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
 
-{% capture carousel_images %}
-../assets/res/casula/casula-1.png
-../assets/res/casula/casula-2.png
-{% endcapture %}
-{% include elements/carousel.html %}
+<div class="gallery">
+  <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher.png">
+    <img src="../assets/res/campanha_mulher/campanha_mulher.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Campanha Mulheres, 1</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher_2.png">
+    <img src="../assets/res/campanha_mulher/campanha_mulher_2.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Campanha Mulheres, 1</div>
+</div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/casula/casula-1.png">
+    <img src="../assets/res/casula/casula-1.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Postagem Instituto Casula, 1</div>
+</div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/casula/casula-2.png">
+    <img src="../assets/res/casula/casula-2.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Postagem Instituto Casula, 1</div>
+</div> 
 
 
 ## Habilidades
