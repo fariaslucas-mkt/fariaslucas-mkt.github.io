@@ -11,13 +11,13 @@ Adobe Illustrator, CorelDraw & Inkscape são **programas para edição, desenho 
 <style>
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
   float: left;
   width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  transform: scale(1.5);
 }
 
 div.gallery img {
