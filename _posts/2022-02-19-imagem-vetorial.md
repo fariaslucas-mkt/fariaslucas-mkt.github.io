@@ -77,7 +77,7 @@ Postagem Instituto Casula
 
 &nbsp;&nbsp;
 
-<br><br>
+</br></br></br>
 
 ## Habilidades
 
