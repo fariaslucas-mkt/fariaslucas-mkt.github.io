@@ -40,7 +40,7 @@ Postagem Instituto Casula
 {% endcapture %}
 {% include elements/list.html title="Material desenvolvido com Inkscape" %}
 
-
+<div>
 <div class="gallery">
   <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher.png">
     <img src="../assets/res/campanha_mulher/campanha_mulher.png" alt="" width="600" height="400">
