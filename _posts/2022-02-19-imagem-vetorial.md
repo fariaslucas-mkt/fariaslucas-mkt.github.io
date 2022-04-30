@@ -69,7 +69,7 @@ Postagem Instituto Casula
   <div class="desc">Postagem Instituto Casula, 1</div>
 </div> 
 
-</br></br></br>
+<br><br><br>
 
 ## Habilidades
 
