@@ -77,7 +77,7 @@ Postagem Instituto Casula
 </div> 
 
 <div class="gallery">
-  <a target="_blank" href="../assets/res/rrchev/rrchev-2png">
+  <a target="_blank" href="../assets/res/rrchev/rrchev-2.png">
     <img src="../assets/res/rrchev/rrchev-2.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Postagem RR Chevrolet, 2</div>
