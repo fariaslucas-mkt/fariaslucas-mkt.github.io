@@ -18,7 +18,8 @@ Postagem Instituto Casula
 ../assets/res/campanha_mulher/campanha_mulher.png
 ../assets/res/campanha_mulher/campanha_mulher_2.png
 {% endcapture %}
-[- Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
+{% include elements/carousel.html %}
+[Campanha Mulher 2, GIMP](https://fariaslucas-mkt.github.io/blog/imagem-bitmap)
 
 {% capture carousel_images %}
 ../assets/res/casula/casula-1.png
