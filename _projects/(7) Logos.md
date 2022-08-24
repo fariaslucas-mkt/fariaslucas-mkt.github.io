@@ -3,7 +3,6 @@ name: Logos
 tools: [Arte, Logo]
 image: ../assets/res/logos/pantoja_varios.png
 description: Logos, logotipos e guias de identidade visual.
-external_url: https://fariaslucas-mkt.github.io/blog/imagem-vetorial
 
 ---
 
@@ -43,6 +42,13 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
     <img src="../assets/res/logos/pantoja_varios.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Pantoja Painéis, empresa de energia solar</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/logos/zenithar-1.png">
+    <img src="../assets/res/logos/zenithar-1" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Zenithar, empresa de recursos humanos</div>
 </div> 
 
 </div>
