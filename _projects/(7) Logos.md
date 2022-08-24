@@ -51,6 +51,20 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
   <div class="desc">Zenithar, empresa de recursos humanos</div>
 </div> 
 
+<div class="gallery">
+  <a target="_blank" href="../assets/res/logos/solus-claro.png">
+    <img src="../assets/res/logos/solus-claro.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Solus, empresa fictícia de soluções tecnológicas</div>
+</div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/logos/solus-escuro.png">
+    <img src="../assets/res/logos/solus-escuro.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Solus, empresa fictícia de soluções tecnológicas</div>
+</div> 
+
 </div>
 
  <br>
