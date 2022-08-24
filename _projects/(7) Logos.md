@@ -46,7 +46,7 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
 
 <div class="gallery">
   <a target="_blank" href="../assets/res/logos/zenithar-1.png">
-    <img src="../assets/res/logos/zenithar-1" alt="" width="600" height="400">
+    <img src="../assets/res/logos/zenithar-1.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Zenithar, empresa de recursos humanos</div>
 </div> 
