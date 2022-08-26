@@ -41,7 +41,6 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
   <a target="_blank" href="../assets/res/logos/pantoja_varios.png">
     <img src="../assets/res/logos/pantoja_varios.png" alt="" width="600" height="400">
   </a>
-  <div class="desc">Pantoja Solar, empresa de energia solar</div>
 </div>
 
 <div class="gallery">
