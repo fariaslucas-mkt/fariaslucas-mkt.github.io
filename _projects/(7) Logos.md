@@ -1,7 +1,7 @@
 ---
 name: Logos
 tools: [Arte, Logo]
-image: ../assets/res/logos/pantoja_varios.png
+image: ../assets/res/logos/pantoja_varios3.png
 description: Logos, logotipos e guias de identidade visual.
 
 ---
@@ -40,6 +40,12 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
 <div class="gallery">
   <a target="_blank" href="../assets/res/logos/triangle.png">
     <img src="../assets/res/logos/triangle.png" alt="" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/logos/pantoja_varios3.png">
+    <img src="../assets/res/logos/pantoja_varios3.png" alt="" width="600" height="400">
   </a>
 </div> 
 
