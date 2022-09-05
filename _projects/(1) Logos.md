@@ -56,12 +56,6 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="../assets/res/logos/pantoja_varios2.png">
-    <img src="../assets/res/logos/pantoja_varios2.png" alt="" width="600" height="400">
-  </a>
-</div>
-
-<div class="gallery">
   <a target="_blank" href="../assets/res/logos/solus-claro.png">
     <img src="../assets/res/logos/solus-claro.png" alt="" width="600" height="400">
   </a>
@@ -78,6 +72,12 @@ Desenvolvimento de logos, logotipos e documentos de identidade visual.
     <img src="../assets/res/logos/zenithar-1.png" alt="" width="600" height="400">
   </a>
 </div> 
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/logos/pantoja_varios2.png">
+    <img src="../assets/res/logos/pantoja_varios2.png" alt="" width="600" height="400">
+  </a>
+</div>
 
 </div>
 
