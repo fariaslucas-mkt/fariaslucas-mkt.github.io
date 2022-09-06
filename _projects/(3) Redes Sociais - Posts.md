@@ -50,8 +50,14 @@ Desenvolvimento de artes para veiculação em redes sociais, além da criação 
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="../assets/res/logos/pantoja_varios.png">
-    <img src="../assets/res/logos/pantoja_varios.png" alt="" width="600" height="400">
+  <a target="_blank" href="../assets/res/campanha_mulher/m1b-square.png">
+    <img src="../assets/res/campanha_mulher/m1b-square.png" alt="" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="../assets/res/campanha_mulher/campanha_mulher.png">
+    <img src="../assets/res/campanha_mulher/campanha_mulher.png" alt="" width="600" height="400">
   </a>
 </div>
 
