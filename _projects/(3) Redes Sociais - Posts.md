@@ -50,8 +50,8 @@ Desenvolvimento de artes para veiculação em redes sociais, além da criação 
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="../assets/res/campanha_mulher/m1b-square.png">
-    <img src="../assets/res/campanha_mulher/m1b-square.png" alt="" width="600" height="400">
+  <a target="_blank" href="../assets/res/campanha_mulher/m1b-square.jpg">
+    <img src="../assets/res/campanha_mulher/m1b-square.jpg" alt="" width="600" height="400">
   </a>
 </div>
 
@@ -63,13 +63,13 @@ Desenvolvimento de artes para veiculação em redes sociais, além da criação 
 
 <div class="gallery">
   <a target="_blank" href="../assets/res/casula/casula-1.png">
-    <img src="../assets/res/casula/casula-1" alt="" width="600" height="400">
+    <img src="../assets/res/casula/casula-1.png" alt="" width="600" height="400">
   </a>
 </div> 
 
 <div class="gallery">
   <a target="_blank" href="../assets/res/casula/casula-2.png">
-    <img src="../assets/res/casula/casula-2" alt="" width="600" height="400">
+    <img src="../assets/res/casula/casula-2.png" alt="" width="600" height="400">
   </a>
 </div> 
 
