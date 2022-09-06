@@ -14,8 +14,8 @@ Meus estudos são focados na área de comunicação, e entre os principais tópi
 desenvolvimento de campanhas publicitárias, planejamento de marketing e publicidade, criação de artes,
 roteiros e materiais audiovisuais, e o estudo de diferentes mídias (meios de comunicação).
 
-Meus tópicos favoritos são **branding**, **marketing**, **gestão**, **tipografia** e **criação de artes e vídeos (design gráfico)**.
-Autodidata de paixão, sou fluente em Inglês e tenho um interesse geral por idiomas e tradução.
+Meus tópicos favoritos são **branding**, **marketing digital**, **gestão de negócios**, **tipografia**, **UI/UX** e **criação de artes e vídeos (design gráfico)**.
+Autodidata de paixão, sou fluente em Inglês e tenho um interesse geral por idiomas e tradução (fã massivo das obras de J.R.R. Tolkien).
 
 <!--- Meus hobbies incluem livros de ficção, ouvir música (gosto eclético) e ler sobre qualquer tópico interessante que eu achar online.
 --->
