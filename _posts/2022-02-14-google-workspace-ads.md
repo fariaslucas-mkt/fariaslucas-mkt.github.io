@@ -3,7 +3,7 @@ title: Google Meu Negócio & Anúncios
 tags: [Google, Marketing Digital]
 style: fill
 color: primary
-description: Gerenciamento de Google Meu Negócio (Workspace) e Google Anúncios (Ads).
+description: Gerenciamento de Google Meu Negócio (My Business) e Google Anúncios (Ads).
 ---
 
 
@@ -31,7 +31,7 @@ div.desc {
 }
 </style>
 
-Desenvolvimento e veiculação de anúncios online utilizando a plataforma Google Ads, e criação e gerenciamento de página Google My Business (Google Meu Negócio).
+Desenvolvimento e veiculação de anúncios online utilizando a plataforma Google Ads (categorias: pesquisa, display e YouTube), e criação e gerenciamento de páginas Google My Business/Google Meu Negócio (descrições, horários, contato, logos, álbuns e Google Mapas).
 
 <div>
 
